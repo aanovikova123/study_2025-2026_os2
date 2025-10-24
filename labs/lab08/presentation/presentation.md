@@ -33,27 +33,27 @@ header-includes:
 
 ## Проверка службы crond
 
-![Статус службы crond](Screenshot_1.png){ #fig:001 width=70% }
+![Статус службы crond](image/Screenshot_1.png){ #fig:001 width=70% }
 
 ## Настройка расписания cron
 
-![Создание задания cron](Screenshot_2.png){ #fig:002 width=70% }
+![Создание задания cron](image/Screenshot_2.png){ #fig:002 width=70% }
 
 ## Изменение расписания
 
-![Редактирование расписания root cron](Screenshot_3.png){ #fig:003 width=70% }
+![Редактирование расписания root cron](image/Screenshot_3.png){ #fig:003 width=70% }
 
 ## Скрипты в /etc/cron.hourly
 
-![Создание скрипта eachhour](Screenshot_4.png){ #fig:004 width=70% }
+![Создание скрипта eachhour](image/Screenshot_4.png){ #fig:004 width=70% }
 
 ## Задания в /etc/cron.d
 
-![Создание задания в /etc/cron.d](Screenshot_5.png){ #fig:005 width=70% }
+![Создание задания в /etc/cron.d](image/Screenshot_5.png){ #fig:005 width=70% }
 
 ## Использование atd
 
-![Проверка статуса службы atd](Screenshot_6.png){ #fig:006 width=70% }
+![Проверка статуса службы atd](image/Screenshot_6.png){ #fig:006 width=70% }
 
 # Итоги работы
 
